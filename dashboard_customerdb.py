@@ -69,7 +69,6 @@ st.subheader("📈 Descriptive Statistics")
 
 # Mostrar resumo estatístico completo (todas as variáveis)
 desc_all = df.describe(include='all').T
-desc_all["missing_values"] = df.isna().sum()
 
 st.dataframe(
     desc_all.style.format(precision=2),
