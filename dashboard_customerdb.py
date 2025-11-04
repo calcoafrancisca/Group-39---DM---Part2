@@ -258,13 +258,11 @@ else:
                 st.error(f"MANOVA failed: {e}")
 
         elif len(selected_numeric) == 1 and len(selected_categorical) == 2:
-            # Caso 2: uma numérica + duas categóricas
             num = selected_numeric[0]
             cat1, cat2 = selected_categorical
 
             st.markdown(f"**Two categorical factors vs one numeric dependent variable** — {num} by {cat1} and {cat2}")
 
-            # ANOVA de dois fatores com interação
             safe_cat1 = cat1.replace(" ", "_").replace("-", "_")
             safe_cat2 = cat2.replace(" ", "_").replace("-", "_")
             safe_num = num.replace(" ", "_").replace("-", "_")
@@ -276,7 +274,6 @@ else:
                 anova_table = sm.stats.anova_lm(model, typ=2)
                 st.dataframe(anova_table.style.format(precision=4), use_container_width=True)
 
-                # Gráfico: boxplot duplo
                 fig, ax = plt.subplots(figsize=(8, 5))
                 sns.boxplot(data=df_sel, x=safe_cat1, y=safe_num, hue=safe_cat2, palette="Set2")
                 ax.set_title(f"{num} by {cat1} and {cat2}")
