@@ -1,0 +1,19 @@
+// Car Price Prediction Pipeline
+digraph {
+	A [label="Raw Data"]
+	B [label="Data Cleaning
+(missing values, duplicates, mixed types)"]
+	C [label="Feature Standardization
+(Brand, Model, FuelType)"]
+	D [label="Feature Selection
+(drop low-info features)"]
+	E [label="Modeling
+(regression algorithms)"]
+	F [label="Evaluation
+(metrics, cross-validation)"]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+}
