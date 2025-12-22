@@ -3,7 +3,6 @@
 123,746226,Theodora,Sampieri,Theodora Sampieri,Canada,British Columbia,Whistler,50.116322,-122.95736,V6T 1Y8,female,Bachelor,Urban,43177.0,Married,Star,2021-01-17,,4089.04,Standard,N,347 days
 141,279419,Reyes,Sobczak,Reyes Sobczak,Canada,British Columbia,West Vancouver,49.328625,-123.16019,V6V 8Z3,female,College,Urban,0.0,Single,Star,2016-07-03,,4117.37,Standard,N,2006 days
 161,354438,Maricela,Veals,Maricela Veals,Canada,Quebec,Montreal,45.50169,-73.567253,H2T 2J6,male,College,Rural,0.0,Married,Star,2021-09-01,,4167.09,Standard,N,120 days
-204,719633,Elnora,Holzmiller,Elnora Holzmiller,Canada,British Columbia,Victoria,48.428421,-123.36565,V10 6T5,male,Bachelor,Suburban,27608.0,Divorced,Star,2019-12-03,,4250.78,Standard,N,758 days
 370,354438,Marla,Heinicke,Marla Heinicke,Canada,Ontario,Toronto,43.653225,-79.383186,M8Y 4K8,male,Bachelor,Rural,34640.0,Married,Star,2015-07-11,,4530.53,Standard,N,2364 days
 538,411523,Jesenia,Whitlock,Jesenia Whitlock,Canada,Alberta,Edmonton,53.544388,-113.49093,T9G 1W3,male,Bachelor,Urban,42165.0,Single,Star,2019-10-18,,4747.73,Standard,N,804 days
 550,615439,Lon,Castor,Lon Castor,Canada,Manitoba,Winnipeg,49.895138,-97.138374,R2C 0M5,male,Doctor,Rural,14957.0,Single,Star,2016-02-12,,4763.33,Standard,N,2148 days
@@ -19,8 +18,6 @@
 1276,304600,Chara,Mcgrory,Chara Mcgrory,Canada,Quebec,Montreal,45.50169,-73.567253,H4G 3T4,male,High School or Below,Urban,26441.0,Married,Aurora,2018-04-07,,5553.8,Standard,N,1363 days
 1311,601131,Olga,Tamblyn,Olga Tamblyn,Canada,Yukon,Whitehorse,60.721188,-135.05684,Y2K 6R0,female,Doctor,Suburban,19724.0,Married,Aurora,2019-02-11,,5584.96,Standard,N,1053 days
 1332,951353,Emmanuel,Meece,Emmanuel Meece,Canada,Ontario,Toronto,43.653225,-79.383186,M2M 7K8,male,Bachelor,Urban,68665.0,Married,Aurora,2021-03-31,,5600.5,2021 Promotion,N,274 days
-1365,710003,Kelle,Trojillo,Kelle Trojillo,Canada,Ontario,London,42.984924,-81.245277,M5B 3E4,male,Bachelor,Suburban,33137.0,Single,Aurora,2019-02-27,,5644.47,Standard,N,1037 days
-1388,224676,Alfredia,Minty,Alfredia Minty,Canada,Ontario,Toronto,43.653225,-79.383186,P1J 8T7,female,Bachelor,Rural,36938.0,Married,Aurora,2015-08-30,,5682.52,Standard,N,2314 days
 1431,361237,Tess,Toews,Tess Toews,Canada,British Columbia,Dawson Creek,55.759628,-120.23766,U5I 4F1,male,Bachelor,Rural,35091.0,Divorced,Aurora,2019-07-08,,5768.09,Standard,N,906 days
 1439,981508,Cameron,Grahovac,Cameron Grahovac,Canada,British Columbia,Vancouver,49.28273,-123.12074,V6E 3D9,male,Bachelor,Urban,44784.0,Married,Aurora,2018-04-01,,5786.49,Standard,N,1369 days
 1529,465260,Michell,Warth,Michell Warth,Canada,British Columbia,Vancouver,49.28273,-123.12074,V6E 3Z3,female,Bachelor,Urban,79140.0,Married,Aurora,2015-11-04,,5977.79,Standard,N,2248 days
@@ -41,32 +38,24 @@
 2025,593252,Dorthea,Niang,Dorthea Niang,Canada,Quebec,Montreal,45.50169,-73.567253,H4G 3T4,male,Bachelor,Urban,26849.0,Married,Aurora,2018-12-31,,7295.43,Standard,N,1095 days
 2030,886803,Hsiu,Banke,Hsiu Banke,Canada,British Columbia,Whistler,50.116322,-122.95736,V6T 1Y8,female,College,Suburban,0.0,Divorced,Aurora,2021-09-14,,7304.16,Standard,N,107 days
 2133,896861,Marylin,Ottley,Marylin Ottley,Canada,Ontario,Toronto,43.653225,-79.383186,P2T 6G3,female,College,Urban,0.0,Single,Aurora,2018-11-24,,7487.74,Standard,N,1132 days
-2149,407404,Alexandra,Beighley,Alexandra Beighley,Canada,Ontario,Kingston,44.231171,-76.485954,M9K 2P4,male,Bachelor,Rural,96306.0,Divorced,Aurora,2020-06-11,,7519.13,Standard,N,567 days
 2194,876062,Levi,Scrudato,Levi Scrudato,Canada,British Columbia,Vancouver,49.28273,-123.12074,V1E 4R6,male,Bachelor,Suburban,59847.0,Married,Aurora,2019-07-13,,7596.29,Standard,N,901 days
-2199,497476,Hong,Annonio,Hong Annonio,Canada,Newfoundland,St. John's,47.561508,-52.712578,A1C 6H9,male,College,Urban,0.0,Married,Aurora,2017-07-16,,7607.0,Standard,N,1628 days
 2322,615439,Thalia,Cabos,Thalia Cabos,Canada,Ontario,Toronto,43.653225,-79.383186,P1J 8T7,female,Bachelor,Urban,44698.0,Married,Aurora,2017-10-21,,7918.33,Standard,N,1531 days
 2393,615561,Reba,Schwadron,Reba Schwadron,Canada,Ontario,Toronto,43.653225,-79.383186,M2M 6J7,male,College,Rural,0.0,Single,Aurora,2019-03-06,,8036.45,Standard,N,1030 days
-2416,156031,Onie,Grech,Onie Grech,Canada,Quebec,Montreal,45.50169,-73.567253,H2Y 2W2,female,Bachelor,Urban,50825.0,Married,Aurora,2019-05-24,,8092.88,Standard,N,951 days
 2442,825593,Rose,Mcgregor,Rose Mcgregor,Canada,Ontario,Toronto,43.653225,-79.383186,P5S 6R4,female,High School or Below,Suburban,24992.0,Married,Aurora,2020-05-18,,8139.0,Standard,N,591 days
 2467,684889,Shana,Rehbein,Shana Rehbein,Canada,British Columbia,Victoria,48.428421,-123.36565,V10 6T5,female,Bachelor,Urban,69114.0,Divorced,Aurora,2019-04-22,,8184.59,Standard,N,983 days
 2526,874780,Breana,Burgman,Breana Burgman,Canada,Ontario,Toronto,43.653225,-79.383186,M2M 7K8,male,Master,Urban,21442.0,Divorced,Aurora,2018-03-17,,8312.68,Standard,N,1384 days
 2598,486860,Adah,Byland,Adah Byland,Canada,British Columbia,Vancouver,49.28273,-123.12074,V5R 1W3,male,Bachelor,Urban,63513.0,Married,Aurora,2018-08-14,,8471.42,Standard,N,1234 days
 2602,322169,Leonel,Netherton,Leonel Netherton,Canada,Quebec,Tremblant,46.118462,-74.596184,H5Y 2S9,male,Bachelor,Rural,67197.0,Divorced,Aurora,2020-05-06,,8481.31,Standard,N,603 days
 2668,101902,Yi,Nesti,Yi Nesti,Canada,Ontario,Toronto,43.653225,-79.383186,M8Y 4K8,female,Bachelor,Urban,79090.0,Married,Aurora,2020-03-19,,8609.16,Standard,N,651 days
-2682,960050,Tami,Polizio,Tami Polizio,Canada,Ontario,Thunder Bay,48.380894,-89.247681,K8T 5M5,female,Bachelor,Urban,97361.0,Single,Aurora,2018-12-28,,8622.84,Standard,N,1098 days
 2725,351615,Erwin,Crecco,Erwin Crecco,Canada,British Columbia,Vancouver,49.28273,-123.12074,V5R 1W3,female,College,Suburban,0.0,Divorced,Aurora,2018-05-31,,8689.82,Standard,N,1309 days
 2828,988392,Odelia,Strebel,Odelia Strebel,Canada,British Columbia,Vancouver,49.28273,-123.12074,V6E 3D9,male,College,Urban,0.0,Single,Aurora,2015-05-15,,9022.08,Standard,N,2421 days
 2891,979115,Gilberte,Grzebien,Gilberte Grzebien,Canada,Saskatchewan,Regina,50.44521,-104.6189,S6J 3G0,male,Bachelor,Urban,47663.0,Divorced,Aurora,2020-08-24,,9180.15,Standard,N,493 days
 2978,547522,Latonia,Much,Latonia Much,Canada,British Columbia,Vancouver,49.28273,-123.12074,V6E 3D9,male,Bachelor,Rural,90334.0,Divorced,Aurora,2019-01-17,,9635.58,Standard,N,1078 days
-3055,577232,Pete,Sainliere,Pete Sainliere,Canada,British Columbia,Vancouver,49.28273,-123.12074,V5R 1W3,female,Bachelor,Suburban,48999.0,Married,Aurora,2016-05-16,,10097.69,Standard,N,2054 days
 3071,653081,Carmina,Riojas,Carmina Riojas,Canada,Alberta,Edmonton,53.544388,-113.49093,T3G 6Y6,male,Bachelor,Rural,35482.0,Married,Aurora,2015-07-21,,10208.93,Standard,N,2354 days
 3087,584833,Lili,Flechas,Lili Flechas,Canada,Quebec,Montreal,45.50169,-73.567253,H2Y 2W2,male,Bachelor,Suburban,78358.0,Married,Aurora,2020-11-01,,10307.65,Standard,N,424 days
-3093,455758,Diamond,Murril,Diamond Murril,Canada,Ontario,Toronto,43.653225,-79.383186,M2M 7K8,male,Bachelor,Urban,68309.0,Divorced,Aurora,2020-12-12,,10357.51,Standard,N,383 days
-3282,510182,Nichelle,Nones,Nichelle Nones,Canada,British Columbia,Dawson Creek,55.759628,-120.23766,U5I 4F1,female,Bachelor,Urban,36431.0,Married,Aurora,2018-03-21,,11760.88,Standard,N,1380 days
 3351,869276,Grisel,Kozusko,Grisel Kozusko,Canada,Quebec,Montreal,45.50169,-73.567253,H2T 2J6,female,Bachelor,Rural,74586.0,Married,Aurora,2015-12-30,,12300.01,Standard,N,2192 days
 3475,200519,Lana,Hineman,Lana Hineman,Canada,Quebec,Quebec City,46.813877,-71.207977,G1B 3L5,male,Bachelor,Urban,43720.0,Single,Aurora,2019-09-15,,13448.81,Standard,N,837 days
 3524,286636,Elvin,Suddarth,Elvin Suddarth,Canada,Quebec,Montreal,45.50169,-73.567253,H4G 3T4,female,Bachelor,Suburban,81872.0,Married,Aurora,2015-04-01,,14024.36,Standard,N,2465 days
-3678,112142,Arnold,Cantoran,Arnold Cantoran,Canada,Ontario,Thunder Bay,48.380894,-89.247681,K8T 5M5,male,Bachelor,Urban,83589.0,Single,Aurora,2018-07-26,,16272.74,Standard,N,1253 days
 3718,460272,Leonia,Gingery,Leonia Gingery,Canada,Nova Scotia,Halifax,44.648766,-63.575237,B3J 9S2,male,Bachelor,Suburban,58620.0,Married,Aurora,2019-07-31,,17006.0,Standard,N,883 days
 3731,328623,Audria,Dupriest,Audria Dupriest,Canada,Nova Scotia,Halifax,44.648766,-63.575237,B3J 9S2,female,Bachelor,Rural,41418.0,Divorced,Aurora,2020-01-07,,17367.53,Standard,N,723 days
 3735,135421,Salvatore,Ayyad,Salvatore Ayyad,Canada,Nova Scotia,Halifax,44.648766,-63.575237,B3C 2M8,female,Bachelor,Rural,80969.0,Married,Aurora,2020-01-07,,17441.64,Standard,N,723 days
@@ -86,7 +75,6 @@
 5003,368073,Rufus,Dannenberg,Rufus Dannenberg,Canada,Quebec,Montreal,45.50169,-73.567253,H2Y 4R4,female,Doctor,Suburban,19447.0,Married,Nova,2020-03-27,,3336.22,Standard,N,643 days
 5034,981508,Celine,Crummitt,Celine Crummitt,Canada,Ontario,Toronto,43.653225,-79.383186,P5S 6R4,female,College,Rural,0.0,Single,Nova,2021-03-09,,3362.55,2021 Promotion,N,296 days
 5038,989528,Sharri,Boughman,Sharri Boughman,Canada,Quebec,Montreal,45.50169,-73.567253,H2T 2J6,female,College,Rural,0.0,Divorced,Nova,2020-05-01,,3370.07,Standard,N,608 days
-5141,181082,Anissa,Grigsby,Anissa Grigsby,Canada,British Columbia,Victoria,48.428421,-123.36565,V10 6T5,female,Bachelor,Urban,58484.0,Divorced,Nova,2015-04-01,,3498.77,Standard,N,2465 days
 5162,402697,Jayme,Pospicil,Jayme Pospicil,Canada,Ontario,Ottawa,45.421532,-75.697189,K1F 2R2,male,Bachelor,Suburban,73643.0,Single,Nova,2020-10-06,,3514.21,Standard,N,450 days
 5183,511862,Akilah,Sudak,Akilah Sudak,Canada,Alberta,Edmonton,53.544388,-113.49093,T3G 6Y6,female,College,Urban,0.0,Single,Nova,2020-01-28,,3538.06,Standard,N,702 days
 5238,208241,Glinda,Pavey,Glinda Pavey,Canada,Manitoba,Winnipeg,49.895138,-97.138374,R6Y 4T5,male,Bachelor,Urban,24959.0,Married,Nova,2021-10-04,,3576.71,Standard,N,87 days
@@ -97,11 +85,9 @@
 5331,512296,Thao,Schroff,Thao Schroff,Canada,Alberta,Edmonton,53.544388,-113.49093,T9G 1W3,male,Bachelor,Rural,96170.0,Married,Nova,2020-03-01,,3694.14,Standard,N,669 days
 5453,876062,Marc,Niner,Marc Niner,Canada,Ontario,Ottawa,45.421532,-75.697189,K1F 2R2,male,College,Urban,0.0,Single,Nova,2018-09-02,,3807.53,Standard,N,1215 days
 5519,890702,Bob,Foney,Bob Foney,Canada,Quebec,Montreal,45.50169,-73.567253,H2T 9K8,male,Bachelor,Urban,95018.0,Married,Nova,2017-08-15,,3900.91,Standard,N,1598 days
-5566,342945,Daniele,Gombos,Daniele Gombos,Canada,Quebec,Hull,45.42873,-75.713364,J8Y 3Z5,female,Bachelor,Suburban,92539.0,Single,Nova,2018-04-09,,3980.84,Standard,N,1361 days
 5590,573446,Marybelle,Grandy,Marybelle Grandy,Canada,Saskatchewan,Regina,50.44521,-104.6189,S1J 3C5,female,College,Suburban,0.0,Married,Nova,2017-10-22,,4018.88,Standard,N,1530 days
 5694,604870,Elva,Martiny,Elva Martiny,Canada,Ontario,Toronto,43.653225,-79.383186,M2P 4F6,male,Doctor,Suburban,12160.0,Married,Nova,2015-12-13,,4213.92,Standard,N,2209 days
 5713,584782,Orval,Stagles,Orval Stagles,Canada,Ontario,Ottawa,45.421532,-75.697189,K1F 2R2,male,Doctor,Urban,11904.0,Single,Nova,2019-11-28,,4254.62,Standard,N,763 days
-5729,762990,Lory,Jankins,Lory Jankins,Canada,Alberta,Edmonton,53.544388,-113.49093,T9G 1W3,male,Bachelor,Suburban,36692.0,Married,Nova,2020-09-02,,4276.36,Standard,N,484 days
 5755,286636,Mittie,Loretto,Mittie Loretto,Canada,Nova Scotia,Halifax,44.648766,-63.575237,B3J 9S2,male,College,Suburban,0.0,Single,Nova,2020-05-01,,4314.07,Standard,N,608 days
 5757,208241,Velda,Shank,Velda Shank,Canada,British Columbia,Vancouver,49.28273,-123.12074,V5R 1W3,female,Doctor,Suburban,17572.0,Married,Nova,2017-08-24,,4318.43,Standard,N,1589 days
 5802,750578,Harris,Caoile,Harris Caoile,Canada,British Columbia,Vancouver,49.28273,-123.12074,V6E 3Z3,male,Doctor,Urban,23124.0,Married,Nova,2017-10-23,,4372.49,Standard,N,1529 days
@@ -112,7 +98,6 @@
 5981,650466,Natasha,Clegg,Natasha Clegg,Canada,British Columbia,Victoria,48.428421,-123.36565,V10 6T5,male,College,Suburban,0.0,Single,Nova,2019-09-05,,4623.54,Standard,N,847 days
 6010,896861,Karine,Mickelson,Karine Mickelson,Canada,Ontario,Ottawa,45.421532,-75.697189,K1F 2R2,male,Bachelor,Suburban,98475.0,Married,Nova,2020-02-18,,4651.28,Standard,N,681 days
 6085,499874,Millicent,Ina,Millicent Ina,Canada,British Columbia,West Vancouver,49.328625,-123.16019,V6V 8Z3,male,College,Suburban,0.0,Single,Nova,2015-09-15,,4745.68,Standard,N,2298 days
-6118,411734,Meredith,Flener,Meredith Flener,Canada,British Columbia,Victoria,48.428421,-123.36565,V10 6T5,male,College,Suburban,0.0,Single,Nova,2018-01-11,,4774.38,Standard,N,1449 days
 6133,950304,Gail,Pfalzgraf,Gail Pfalzgraf,Canada,Quebec,Hull,45.42873,-75.713364,J8Y 3Z5,male,Doctor,Rural,24395.0,Married,Nova,2017-04-15,,4792.81,Standard,N,1720 days
 6154,215508,Terrie,Killmon,Terrie Killmon,Canada,Ontario,Toronto,43.653225,-79.383186,P2T 6G3,female,Bachelor,Urban,74730.0,Single,Nova,2018-09-20,,4819.18,Standard,N,1197 days
 6167,593252,Lenora,Paparo,Lenora Paparo,Canada,Ontario,Toronto,43.653225,-79.383186,M8Y 4K8,female,Bachelor,Rural,38713.0,Divorced,Nova,2020-11-03,,4834.71,Standard,N,422 days
@@ -124,7 +109,6 @@
 6438,547522,Delmar,Kirschner,Delmar Kirschner,Canada,British Columbia,Vancouver,49.28273,-123.12074,V6E 3Z3,male,College,Urban,0.0,Divorced,Nova,2020-12-27,,5124.98,Standard,N,368 days
 6490,886803,Shonta,Pinger,Shonta Pinger,Canada,Ontario,Ottawa,45.421532,-75.697189,K1G 4Z0,female,Bachelor,Rural,24948.0,Married,Nova,2019-05-31,,5193.77,Standard,N,944 days
 6589,584833,Earnestine,Koning,Earnestine Koning,Canada,Quebec,Montreal,45.50169,-73.567253,H2T 9K8,female,Bachelor,Rural,25134.0,Married,Nova,2017-08-30,,5318.9,Standard,N,1583 days
-6629,369638,Janean,Nakao,Janean Nakao,Canada,Ontario,Sudbury,46.522099,-80.953033,M5V 1G5,male,Bachelor,Urban,40833.0,Single,Nova,2021-08-12,,5358.16,Standard,N,140 days
 6729,351615,Genesis,Harry,Genesis Harry,Canada,Ontario,Toronto,43.653225,-79.383186,M2M 7K8,male,Bachelor,Urban,53526.0,Married,Nova,2017-01-06,,5471.83,Standard,N,1819 days
 6791,979115,Gianna,Margo,Gianna Margo,Canada,Ontario,Toronto,43.653225,-79.383186,P1J 8T7,female,Bachelor,Rural,36088.0,Single,Nova,2020-06-15,,5528.21,Standard,N,563 days
 6815,511862,Jinny,Seikaly,Jinny Seikaly,Canada,Alberta,Edmonton,53.544388,-113.49093,T3G 6Y6,male,Bachelor,Rural,68197.0,Married,Nova,2016-10-21,,5553.3,Standard,N,1896 days
@@ -139,7 +123,6 @@
 7674,582493,Loida,Tressler,Loida Tressler,Canada,New Brunswick,Fredericton,45.963589,-66.643112,E3B 2H2,male,Bachelor,Rural,51408.0,Married,Nova,2017-09-18,,7434.25,Standard,N,1564 days
 7881,849813,Estelle,Kawulok,Estelle Kawulok,Canada,Ontario,Trenton,44.101128,-77.576309,K8V 4B2,female,College,Urban,0.0,Single,Nova,2020-05-01,,7809.86,Standard,N,608 days
 8012,528447,Consuela,Anestos,Consuela Anestos,Canada,Ontario,Sudbury,46.522099,-80.953033,M5V 1G5,male,Bachelor,Suburban,85210.0,Single,Nova,2019-10-22,,8080.95,Standard,N,800 days
-8074,947778,Lee,Bourbon,Lee Bourbon,Canada,British Columbia,Vancouver,49.28273,-123.12074,V5R 1W3,male,Bachelor,Urban,73245.0,Married,Nova,2020-07-10,,8214.6,Standard,N,538 days
 8091,684123,Yuko,Schiffman,Yuko Schiffman,Canada,British Columbia,Whistler,50.116322,-122.95736,V6T 1Y8,male,Doctor,Rural,23815.0,Married,Nova,2016-01-13,,8257.67,Standard,N,2178 days
 8136,750578,Dayle,Marcantonio,Dayle Marcantonio,Canada,British Columbia,Vancouver,49.28273,-123.12074,V5R 1W3,female,College,Suburban,0.0,Single,Nova,2021-09-04,,8334.36,Standard,N,117 days
 8165,869276,Lacy,Goodpasture,Lacy Goodpasture,Canada,British Columbia,Vancouver,49.28273,-123.12074,V5R 1W3,male,Master,Rural,19683.0,Married,Nova,2017-10-11,,8382.63,Standard,N,1541 days
@@ -148,11 +131,8 @@
 8419,198499,Salome,Kapsner,Salome Kapsner,Canada,New Brunswick,Moncton,46.087818,-64.778229,E1A 2A7,male,Bachelor,Urban,84731.0,Married,Nova,2019-02-13,,8874.55,Standard,N,1051 days
 8558,336882,Phil,Tagalog,Phil Tagalog,Canada,Quebec,Montreal,45.50169,-73.567253,H2T 2J6,female,Bachelor,Rural,52494.0,Single,Nova,2015-04-01,,9275.68,Standard,N,2465 days
 8586,528447,Belinda,Kleinberg,Belinda Kleinberg,Canada,Alberta,Banff,51.178398,-115.5708,T4V 1D4,female,College,Rural,0.0,Single,Nova,2015-08-24,,9402.73,Standard,N,2320 days
-8745,206050,Lonnie,Lovero,Lonnie Lovero,Canada,Ontario,Kingston,44.231171,-76.485954,M9K 2P4,male,Master,Suburban,14290.0,Married,Nova,2016-01-03,,10179.72,Standard,N,2188 days
 8804,920175,Sylvia,Jing,Sylvia Jing,Canada,British Columbia,West Vancouver,49.328625,-123.16019,V6V 8Z3,female,Bachelor,Suburban,30352.0,Married,Nova,2020-02-25,,10498.93,Standard,N,674 days
 8807,474305,Valentine,Bryne,Valentine Bryne,Canada,Ontario,Sudbury,46.522099,-80.953033,M5V 1G5,male,Bachelor,Rural,47950.0,Married,Nova,2020-08-24,,10537.4,Standard,N,493 days
-8904,403529,Mariela,Ferrio,Mariela Ferrio,Canada,British Columbia,Victoria,48.428421,-123.36565,V10 6T5,male,Bachelor,Urban,69268.0,Married,Nova,2018-01-19,,11218.44,Standard,N,1441 days
-8944,263267,Desire,Leitem,Desire Leitem,Canada,Quebec,Montreal,45.50169,-73.567253,H2Y 2W2,male,College,Urban,0.0,Single,Nova,2021-11-21,,11624.82,Standard,N,39 days
 8947,130331,Lucienne,Flythe,Lucienne Flythe,Canada,Ontario,Toronto,43.653225,-79.383186,P5S 6R4,male,High School or Below,Urban,25370.0,Married,Nova,2021-01-28,,11638.9,Standard,N,336 days
 9039,750665,Gala,Deschenes,Gala Deschenes,Canada,Ontario,Kingston,44.231171,-76.485954,M9K 2P4,female,College,Urban,0.0,Single,Nova,2015-08-12,,12476.65,Standard,N,2332 days
 9469,322169,Isaias,Boxton,Isaias Boxton,Canada,New Brunswick,Moncton,46.087818,-64.778229,E1A 2A7,male,Bachelor,Urban,57882.0,Single,Nova,2017-04-28,,18060.48,Standard,N,1707 days
@@ -160,8 +140,6 @@
 9481,308480,Caitlin,Iliff,Caitlin Iliff,Canada,Ontario,Toronto,43.653225,-79.383186,P5S 6R4,female,Bachelor,Suburban,65903.0,Married,Nova,2019-12-21,,18522.29,Standard,N,740 days
 9517,819842,Jenelle,Duwhite,Jenelle Duwhite,Canada,British Columbia,West Vancouver,49.328625,-123.16019,V6V 8Z3,female,Bachelor,Rural,74300.0,Married,Nova,2020-08-11,,19483.24,Standard,N,506 days
 9524,434807,Mica,Kightlinger,Mica Kightlinger,Canada,Quebec,Montreal,45.50169,-73.567253,H4G 3T4,female,College,Suburban,0.0,Single,Nova,2015-07-06,,19668.87,Standard,N,2369 days
-9546,678205,Arnold,Sirles,Arnold Sirles,Canada,Quebec,Hull,45.42873,-75.713364,J8Y 3Z5,male,Bachelor,Urban,48448.0,Married,Nova,2018-09-27,,20230.97,Standard,N,1190 days
-9565,467894,Minna,Tishler,Minna Tishler,Canada,British Columbia,Dawson Creek,55.759628,-120.23766,U5I 4F1,female,Doctor,Rural,15529.0,Married,Nova,2018-02-17,,20725.38,Standard,N,1412 days
 9695,304600,Billy,Vea,Billy Vea,Canada,New Brunswick,Fredericton,45.963589,-66.643112,E3B 2H2,female,High School or Below,Urban,22070.0,Married,Nova,2020-05-17,,24660.49,Standard,N,592 days
 9708,617489,Mercedez,Glockner,Mercedez Glockner,Canada,Quebec,Montreal,45.50169,-73.567253,H2Y 2W2,female,Master,Rural,13663.0,Single,Nova,2021-05-12,,25464.82,Standard,N,232 days
 9723,323821,Emerita,Pellerin,Emerita Pellerin,Canada,British Columbia,Vancouver,49.28273,-123.12074,V1E 4R6,female,Bachelor,Rural,68189.0,Married,Nova,2019-05-16,,26180.81,Standard,N,959 days
@@ -174,8 +152,6 @@
 9917,684123,Devon,Dunham,Devon Dunham,Canada,Ontario,Kingston,44.231171,-76.485954,M9K 2P4,female,College,Suburban,0.0,Single,Star,2018-04-04,,2052.95,Standard,N,1366 days
 9930,902608,Beaulah,Coad,Beaulah Coad,Canada,Ontario,Ottawa,45.421532,-75.697189,K1F 2R2,female,College,Suburban,0.0,Single,Star,2019-11-13,,2111.99,Standard,N,778 days
 9936,968034,Kali,Petr,Kali Petr,Canada,British Columbia,Vancouver,49.28273,-123.12074,V6E 3D9,male,Doctor,Suburban,18287.0,Married,Star,2017-01-12,,2119.89,Standard,N,1813 days
-9995,678205,Chanelle,Essman,Chanelle Essman,Canada,New Brunswick,Moncton,46.087818,-64.778229,E1A 2A7,female,College,Rural,0.0,Single,Star,2015-09-27,,2180.08,Standard,N,2286 days
-10057,342569,Chin,Hudack,Chin Hudack,Canada,Ontario,Thunder Bay,48.380894,-89.247681,K8T 5M5,female,College,Rural,0.0,Single,Star,2019-07-02,,2230.28,Standard,N,912 days
 10204,903359,Muriel,Gerdis,Muriel Gerdis,Canada,British Columbia,Vancouver,49.28273,-123.12074,V1E 4R6,male,College,Urban,0.0,Single,Star,2019-03-17,,2321.05,Standard,N,1019 days
 10208,309230,Athena,Crockette,Athena Crockette,Canada,Yukon,Whitehorse,60.721188,-135.05684,Y2K 6R0,male,College,Suburban,0.0,Single,Star,2018-02-03,,2322.57,Standard,N,1426 days
 10266,819842,Delois,Shuff,Delois Shuff,Canada,Alberta,Edmonton,53.544388,-113.49093,T9G 1W3,female,Doctor,Urban,25064.0,Married,Star,2017-02-09,,2357.75,Standard,N,1785 days
@@ -184,7 +160,6 @@
 10614,727507,Florrie,Sypolt,Florrie Sypolt,Canada,British Columbia,Vancouver,49.28273,-123.12074,V5R 1W3,male,College,Rural,0.0,Single,Star,2020-06-29,,2452.36,Standard,N,549 days
 10626,989528,Sadie,Orejel,Sadie Orejel,Canada,Alberta,Edmonton,53.544388,-113.49093,T9G 1W3,male,Bachelor,Suburban,83772.0,Divorced,Star,2015-04-01,,2453.41,Standard,N,2465 days
 10641,622975,Lucas,Masso,Lucas Masso,Canada,Alberta,Banff,51.178398,-115.5708,T4V 1D4,male,Bachelor,Rural,23158.0,Married,Star,2020-12-19,,2454.58,Standard,N,376 days
-10781,126490,Gennie,Mangone,Gennie Mangone,Canada,Ontario,Thunder Bay,48.380894,-89.247681,K8T 5M5,male,College,Urban,0.0,Single,Star,2017-11-12,,2486.43,Standard,N,1509 days
 10789,732304,Raelene,Lukasiewicz,Raelene Lukasiewicz,Canada,Ontario,Toronto,43.653225,-79.383186,M2M 6J7,male,Bachelor,Rural,67282.0,Married,Star,2018-03-10,,2487.73,Standard,N,1391 days
 11139,278854,Evie,Burnias,Evie Burnias,Canada,British Columbia,Kelowna,49.887951,-119.49601,V09 2E9,female,College,Suburban,0.0,Divorced,Star,2018-01-06,,2557.09,Standard,N,1454 days
 11159,949628,Maira,Bebo,Maira Bebo,Canada,Saskatchewan,Regina,50.44521,-104.6189,S6J 3G0,female,College,Urban,0.0,Married,Star,2015-07-23,,2563.58,Standard,N,2352 days
@@ -197,7 +172,6 @@
 11512,402697,Young,Tomaselli,Young Tomaselli,Canada,British Columbia,Vancouver,49.28273,-123.12074,V1E 4R6,female,Bachelor,Suburban,54000.0,Divorced,Star,2016-01-10,,2644.68,Standard,N,2181 days
 11527,601131,Ashly,Mend,Ashly Mend,Canada,British Columbia,West Vancouver,49.328625,-123.16019,V6V 8Z3,male,Bachelor,Urban,37876.0,Single,Star,2019-01-15,,2647.52,Standard,N,1080 days
 11571,465260,Maura,Wilbourne,Maura Wilbourne,Canada,Nova Scotia,Halifax,44.648766,-63.575237,B3C 2M8,male,College,Suburban,0.0,Divorced,Star,2020-03-07,,2659.71,Standard,N,663 days
-11593,693926,Lupe,Salquero,Lupe Salquero,Canada,Ontario,Toronto,43.653225,-79.383186,M2Z 4K1,male,High School or Below,Urban,14315.0,Married,Star,2016-03-03,,2665.22,Standard,N,2128 days
 11753,746226,Neida,Wealer,Neida Wealer,Canada,Ontario,Kingston,44.231171,-76.485954,M9K 2P4,male,College,Suburban,0.0,Married,Star,2021-11-23,,2710.15,Standard,N,37 days
 11763,642020,Mitchell,Heininger,Mitchell Heininger,Canada,British Columbia,Dawson Creek,55.759628,-120.23766,U5I 4F1,female,Bachelor,Urban,58508.0,Single,Star,2015-04-01,,2712.92,Standard,N,2465 days
 11786,776466,Otis,Kraack,Otis Kraack,Canada,Quebec,Montreal,45.50169,-73.567253,H2T 9K8,female,Master,Suburban,14030.0,Married,Star,2015-07-22,,2719.51,Standard,N,2353 days
@@ -207,7 +181,6 @@
 12049,713132,Tamela,Laing,Tamela Laing,Canada,Ontario,Toronto,43.653225,-79.383186,P1L 8X8,female,High School or Below,Urban,13393.0,Married,Star,2018-09-15,,2869.3,Standard,N,1202 days
 12067,417240,Violeta,Killman,Violeta Killman,Canada,Quebec,Hull,45.42873,-75.713364,J8Y 3Z5,male,Master,Urban,10312.0,Married,Star,2019-07-09,,2886.45,Standard,N,905 days
 12261,903359,Ressie,Rydzewski,Ressie Rydzewski,Canada,Ontario,Toronto,43.653225,-79.383186,P5S 6R4,male,Bachelor,Suburban,25820.0,Divorced,Star,2020-01-02,,3265.16,Standard,N,728 days
-12283,833793,Tiera,Oshiro,Tiera Oshiro,Canada,Saskatchewan,Regina,50.44521,-104.6189,S6J 3G0,male,College,Suburban,0.0,Single,Star,2016-12-17,,3312.25,Standard,N,1839 days
 12292,841296,Blythe,Strassell,Blythe Strassell,Canada,Quebec,Montreal,45.50169,-73.567253,H2T 2J6,male,Bachelor,Urban,43510.0,Married,Star,2015-04-01,,3337.59,Standard,N,2465 days
 12306,546259,Pamula,Brenda,Pamula Brenda,Canada,Ontario,Ottawa,45.421532,-75.697189,K1F 2R2,male,Bachelor,Suburban,95438.0,Married,Star,2015-04-01,,3352.87,Standard,N,2465 days
 12316,650466,Becki,Schlette,Becki Schlette,Canada,Ontario,Toronto,43.653225,-79.383186,M2P 4F6,male,Bachelor,Urban,86689.0,Single,Star,2015-04-07,,3371.86,Standard,N,2459 days
@@ -224,10 +197,8 @@
 12855,255475,Florida,Corvelli,Florida Corvelli,Canada,British Columbia,Vancouver,49.28273,-123.12074,V5R 1W3,male,Bachelor,Suburban,26026.0,Single,Star,2015-12-26,,4369.04,Standard,N,2196 days
 12983,444092,Dannette,Cureton,Dannette Cureton,Canada,British Columbia,Vancouver,49.28273,-123.12074,V1E 4R6,female,College,Suburban,0.0,Single,Star,2019-06-02,,4558.5,Standard,N,942 days
 13018,958491,Lonna,Beelby,Lonna Beelby,Canada,Saskatchewan,Regina,50.44521,-104.6189,S1J 3C5,female,Bachelor,Rural,79487.0,Divorced,Star,2020-10-31,,4626.8,Standard,N,425 days
-13053,106509,Stacy,Schwebke,Stacy Schwebke,Canada,Ontario,Toronto,43.653225,-79.383186,P1J 8T7,female,College,Suburban,0.0,Single,Star,2021-06-12,,4661.98,Standard,N,201 days
 13090,750665,Shanel,Kaloudis,Shanel Kaloudis,Canada,New Brunswick,Fredericton,45.963589,-66.643112,E3B 2H2,female,Bachelor,Rural,25746.0,Married,Star,2016-01-15,,4716.26,Standard,N,2176 days
 13099,899760,Marylin,Ordeneaux,Marylin Ordeneaux,Canada,Ontario,Trenton,44.101128,-77.576309,K8V 4B2,male,High School or Below,Urban,13037.0,Married,Star,2021-04-01,,4726.87,2021 Promotion,N,273 days
-13207,126100,Pattie,Sweigart,Pattie Sweigart,Canada,Quebec,Tremblant,46.118462,-74.596184,H5Y 2S9,male,Doctor,Suburban,11698.0,Married,Star,2017-01-07,,4834.4,Standard,N,1818 days
 13225,790940,Lavelle,Filla,Lavelle Filla,Canada,Ontario,Toronto,43.653225,-79.383186,P1L 8X8,female,College,Urban,0.0,Single,Star,2019-10-26,,4847.24,Standard,N,796 days
 13346,255836,Claude,Hoff,Claude Hoff,Canada,Ontario,Toronto,43.653225,-79.383186,P5S 6R4,female,Bachelor,Urban,98784.0,Married,Star,2016-09-26,,4971.35,Standard,N,1921 days
 13356,295906,Dalia,Elliott,Dalia Elliott,Canada,Alberta,Edmonton,53.544388,-113.49093,T3G 6Y6,male,Bachelor,Suburban,53265.0,Married,Star,2017-01-20,,4980.83,Standard,N,1805 days
@@ -236,7 +207,6 @@
 13499,972686,Huey,Kouns,Huey Kouns,Canada,Alberta,Calgary,51.048615,-114.07085,T3E 2V9,female,Bachelor,Rural,89879.0,Married,Star,2016-02-22,,5123.17,Standard,N,2138 days
 13555,774168,Alphonse,Redler,Alphonse Redler,Canada,Ontario,Trenton,44.101128,-77.576309,K8V 4B2,male,Bachelor,Urban,97131.0,Married,Star,2020-02-05,,5181.62,Standard,N,694 days
 13656,135421,Beverly,Deoliveira,Beverly Deoliveira,Canada,Quebec,Montreal,45.50169,-73.567253,H2Y 4R4,female,College,Suburban,0.0,Divorced,Star,2017-12-16,,5304.54,Standard,N,1475 days
-13888,741848,Celestina,Dimicco,Celestina Dimicco,Canada,New Brunswick,Fredericton,45.963589,-66.643112,E3B 2H2,female,High School or Below,Urban,26441.0,Married,Star,2015-12-23,,5553.8,Standard,N,2199 days
 14038,617489,Gala,Etulain,Gala Etulain,Canada,Ontario,Thunder Bay,48.380894,-89.247681,K8T 5M5,female,Bachelor,Suburban,23504.0,Married,Star,2015-04-01,,5747.27,Standard,N,2465 days
 14091,869265,Gregory,Sosnowski,Gregory Sosnowski,Canada,Saskatchewan,Regina,50.44521,-104.6189,S1J 3C5,female,Bachelor,Suburban,61108.0,Married,Star,2018-04-08,,5821.13,Standard,N,1362 days
 14115,255836,Cristy,Ossowski,Cristy Ossowski,Canada,Ontario,Toronto,43.653225,-79.383186,P2T 6G3,male,Bachelor,Suburban,32848.0,Married,Star,2016-05-10,,5876.05,Standard,N,2060 days
@@ -255,28 +225,21 @@
 15022,243741,Ulysses,Tatsch,Ulysses Tatsch,Canada,British Columbia,Vancouver,49.28273,-123.12074,V1E 4R6,male,Bachelor,Rural,44986.0,Married,Star,2020-05-19,,8041.2,Standard,N,590 days
 15040,328623,Tony,Shorrock,Tony Shorrock,Canada,Quebec,Quebec City,46.813877,-71.207977,G1B 3L5,male,Bachelor,Suburban,57938.0,Married,Star,2017-03-23,,8072.25,Standard,N,1743 days
 15066,897772,Kris,Lollie,Kris Lollie,Canada,Quebec,Montreal,45.50169,-73.567253,H2Y 4R4,male,High School or Below,Urban,12617.0,Divorced,Star,2015-09-30,,8123.96,Standard,N,2283 days
-15103,654433,Serafina,Piatek,Serafina Piatek,Canada,Manitoba,Winnipeg,49.895138,-97.138374,R2C 0M5,female,Bachelor,Suburban,24814.0,Single,Star,2017-12-18,,8200.27,Standard,N,1473 days
 15115,969318,Lenna,Hedges,Lenna Hedges,Canada,Ontario,Kingston,44.231171,-76.485954,M9K 2P4,male,Bachelor,Urban,82634.0,Single,Star,2017-02-02,,8224.77,Standard,N,1792 days
-15133,783165,Margarite,Cranker,Margarite Cranker,Canada,Quebec,Montreal,45.50169,-73.567253,H2T 9K8,male,Doctor,Urban,23815.0,Married,Star,2021-09-12,,8257.67,Standard,N,109 days
 15256,927026,Cathi,Pirozhkov,Cathi Pirozhkov,Canada,British Columbia,West Vancouver,49.328625,-123.16019,V6V 8Z3,female,Bachelor,Suburban,87771.0,Single,Star,2018-06-11,,8503.94,Standard,N,1298 days
 15266,849813,Luise,Yellen,Luise Yellen,Canada,Quebec,Montreal,45.50169,-73.567253,H2T 9K8,male,Bachelor,Rural,34505.0,Married,Star,2015-04-01,,8513.7,Standard,N,2465 days
 15279,897772,Elin,Senion,Elin Senion,Canada,British Columbia,Vancouver,49.28273,-123.12074,V6E 3D9,male,College,Rural,0.0,Married,Star,2020-03-19,,8556.42,Standard,N,651 days
 15415,604274,Trey,Ahal,Trey Ahal,Canada,Alberta,Banff,51.178398,-115.5708,T4V 1D4,female,Bachelor,Rural,99845.0,Married,Star,2020-01-29,,8819.02,Standard,N,701 days
-15459,361680,Johnny,Bermeo,Johnny Bermeo,Canada,Quebec,Montreal,45.50169,-73.567253,H4G 3T4,male,High School or Below,Suburban,29136.0,Divorced,Star,2016-07-01,,8927.57,Standard,N,2008 days
 15469,684889,Bernard,Lindblom,Bernard Lindblom,Canada,British Columbia,Dawson Creek,55.759628,-120.23766,U5I 4F1,female,Bachelor,Urban,41829.0,Married,Star,2015-10-27,,8966.31,Standard,N,2256 days
 15490,361237,Ruthann,Mazzariello,Ruthann Mazzariello,Canada,New Brunswick,Moncton,46.087818,-64.778229,E1A 2A7,female,Bachelor,Rural,34337.0,Married,Star,2015-10-10,,9035.67,Standard,N,2273 days
-15732,490439,Lien,Debelak,Lien Debelak,Canada,British Columbia,Vancouver,49.28273,-123.12074,V5R 1W3,female,Master,Urban,11828.0,Divorced,Star,2018-10-03,,10083.49,Standard,N,1184 days
 15808,646756,Shery,Arevalos,Shery Arevalos,Canada,New Brunswick,Fredericton,45.963589,-66.643112,E3B 2H2,male,Bachelor,Rural,72297.0,Married,Star,2019-02-01,,10492.97,Standard,N,1063 days
 15811,460272,Aura,Defaria,Aura Defaria,Canada,Quebec,Hull,45.42873,-75.713364,J8Y 3Z5,male,Bachelor,Urban,37518.0,Married,Star,2020-05-23,,10529.85,Standard,N,586 days
 15891,373638,Kenneth,Bringard,Kenneth Bringard,Canada,Ontario,Thunder Bay,48.380894,-89.247681,K8T 5M5,female,Bachelor,Suburban,82807.0,Divorced,Star,2017-10-10,,11073.11,Standard,N,1542 days
 15970,702482,Molly,Leviton,Molly Leviton,Canada,British Columbia,Whistler,50.116322,-122.95736,V6T 1Y8,female,College,Suburban,0.0,Single,Star,2019-06-03,,11972.78,Standard,N,941 days
-15983,727091,Jalisa,Niess,Jalisa Niess,Canada,Ontario,Toronto,43.653225,-79.383186,P1J 8T7,female,Bachelor,Rural,57449.0,Single,Star,2018-09-14,,12157.33,Standard,N,1203 days
 15988,106001,Maudie,Hyland,Maudie Hyland,Canada,New Brunswick,Fredericton,45.963589,-66.643112,E3B 2H2,female,Master,Suburban,14973.0,Divorced,Star,2015-07-16,,12168.74,Standard,N,2359 days
-16125,556755,Cassi,Pettet,Cassi Pettet,Canada,British Columbia,Whistler,50.116322,-122.95736,V6T 1Y8,female,Bachelor,Urban,80277.0,Married,Star,2021-12-18,,13345.14,Standard,N,12 days
 16132,444092,Roxie,Leddon,Roxie Leddon,Canada,Quebec,Tremblant,46.118462,-74.596184,H5Y 2S9,female,Bachelor,Urban,69693.0,Married,Star,2019-10-01,,13438.04,Standard,N,821 days
 16270,279419,Whitley,Keebler,Whitley Keebler,Canada,Quebec,Tremblant,46.118462,-74.596184,H5Y 2S9,male,Doctor,Suburban,19245.0,Single,Star,2016-11-17,,15002.6,Standard,N,1869 days
 16380,992168,Crysta,Bennin,Crysta Bennin,Canada,Ontario,Ottawa,45.421532,-75.697189,K1F 2R2,female,Master,Urban,22828.0,Married,Star,2017-12-18,,16473.17,Standard,N,1473 days
-16410,773857,Emma,Fairleigh,Emma Fairleigh,Canada,Ontario,Toronto,43.653225,-79.383186,P1J 8T7,female,Bachelor,Suburban,35095.0,Divorced,Star,2020-09-27,,16979.8,Standard,N,459 days
 16457,825517,Rochel,Kunzie,Rochel Kunzie,Canada,Ontario,Toronto,43.653225,-79.383186,M8Y 4K8,female,College,Urban,0.0,Single,Star,2019-07-24,,18039.11,Standard,N,890 days
 16488,373638,Sherryl,Vanduyn,Sherryl Vanduyn,Canada,Quebec,Tremblant,46.118462,-74.596184,H5Y 2S9,female,College,Rural,0.0,Single,Star,2021-07-30,,18898.33,Standard,N,153 days
 16625,727507,Marnie,Kisner,Marnie Kisner,Canada,Alberta,Banff,51.178398,-115.5708,T4V 1D4,male,Bachelor,Suburban,93011.0,Divorced,Star,2020-12-26,,22643.83,Standard,N,369 days
