@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_827b94d18cfb3fdfa9b38bbec8935520 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_827b94d18cfb3fdfa9b38bbec8935520" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_827b94d18cfb3fdfa9b38bbec8935520 = L.map(
+                "map_827b94d18cfb3fdfa9b38bbec8935520",
+                {
+                    center: [56.1304, -106.3468],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_7423c4b172d8823e7e594fc7f8997aee = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_7423c4b172d8823e7e594fc7f8997aee.addTo(map_827b94d18cfb3fdfa9b38bbec8935520);
+        
+    
+            tile_layer_7423c4b172d8823e7e594fc7f8997aee.addTo(map_827b94d18cfb3fdfa9b38bbec8935520);
+        
+    
+            var marker_cluster_7a75c4235a0e19cdaa32e2183d291590 = L.markerClusterGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_3cdad0702b192c25f31fa1d09a2c632c = L.circleMarker(
+                [53.525236463678205, -106.38025091201439],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_d68507356a1305bd4ae5abf7b20aa9e9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c5794f91cbdc32afcbd863fcb71af409 = $(`<div id="html_c5794f91cbdc32afcbd863fcb71af409" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Saskatchewan<br>             <b>Income:</b> $59,732<br>             <b>CLV:</b> $3,745             </div>`)[0];
+                popup_d68507356a1305bd4ae5abf7b20aa9e9.setContent(html_c5794f91cbdc32afcbd863fcb71af409);
+            
+        
+
+        circle_marker_3cdad0702b192c25f31fa1d09a2c632c.bindPopup(popup_d68507356a1305bd4ae5abf7b20aa9e9)
+        ;
+
+        
+    
+    
+            var circle_marker_9efbb1ed7934c17189a1e33ffd07ea16 = L.circleMarker(
+                [53.58143497921573, -127.48385942089386],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_1ce0fd6d491f40181613021daf7b7588 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3ff33154c9a1a3495e7b41cb1d289eb8 = $(`<div id="html_3ff33154c9a1a3495e7b41cb1d289eb8" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> British Columbia<br>             <b>Income:</b> $0<br>             <b>CLV:</b> $8,591             </div>`)[0];
+                popup_1ce0fd6d491f40181613021daf7b7588.setContent(html_3ff33154c9a1a3495e7b41cb1d289eb8);
+            
+        
+
+        circle_marker_9efbb1ed7934c17189a1e33ffd07ea16.bindPopup(popup_1ce0fd6d491f40181613021daf7b7588)
+        ;
+
+        
+    
+    
+            var circle_marker_1cac39b58eb4c310c2f2d0632204f237 = L.circleMarker(
+                [52.92619037813905, -73.6527838615667],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_1a6e2a0d65bae04665ef074d3658d5d6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7e53e5fe118271424a52d293ed8f682e = $(`<div id="html_7e53e5fe118271424a52d293ed8f682e" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Quebec<br>             <b>Income:</b> $24,980<br>             <b>CLV:</b> $8,161             </div>`)[0];
+                popup_1a6e2a0d65bae04665ef074d3658d5d6.setContent(html_7e53e5fe118271424a52d293ed8f682e);
+            
+        
+
+        circle_marker_1cac39b58eb4c310c2f2d0632204f237.bindPopup(popup_1a6e2a0d65bae04665ef074d3658d5d6)
+        ;
+
+        
+    
+    
+            var circle_marker_2b5e62687b49dfd3fe757d8fbf34585e = L.circleMarker(
+                [52.07087905340005, -85.256572819026],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_d7d8f35959ca655eea2f7a6177e1810d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_091fe16b5dba3dac79628c7bca3bb322 = $(`<div id="html_091fe16b5dba3dac79628c7bca3bb322" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Ontario<br>             <b>Income:</b> $32,390<br>             <b>CLV:</b> $6,285             </div>`)[0];
+                popup_d7d8f35959ca655eea2f7a6177e1810d.setContent(html_091fe16b5dba3dac79628c7bca3bb322);
+            
+        
+
+        circle_marker_2b5e62687b49dfd3fe757d8fbf34585e.bindPopup(popup_d7d8f35959ca655eea2f7a6177e1810d)
+        ;
+
+        
+    
+    
+            var circle_marker_f6888b55d1919a5e2a0de23210a19884 = L.circleMarker(
+                [44.501822833647225, -63.402274591232946],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_1126befe3285aa0541b815f80d1b28a5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2445584a74562c4331482c23a2cf1039 = $(`<div id="html_2445584a74562c4331482c23a2cf1039" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Nova Scotia<br>             <b>Income:</b> $39,602<br>             <b>CLV:</b> $7,489             </div>`)[0];
+                popup_1126befe3285aa0541b815f80d1b28a5.setContent(html_2445584a74562c4331482c23a2cf1039);
+            
+        
+
+        circle_marker_f6888b55d1919a5e2a0de23210a19884.bindPopup(popup_1126befe3285aa0541b815f80d1b28a5)
+        ;
+
+        
+    
+    
+            var circle_marker_45a1f87e03bd697666e0305ecff2b38a = L.circleMarker(
+                [50.845949481448194, -85.66141803244567],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_6a9382b9c6d53ad8f72d2d352aecee65 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0c0006b143e32f3ba4369f3112d3d85d = $(`<div id="html_0c0006b143e32f3ba4369f3112d3d85d" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Ontario<br>             <b>Income:</b> $33,555<br>             <b>CLV:</b> $2,509             </div>`)[0];
+                popup_6a9382b9c6d53ad8f72d2d352aecee65.setContent(html_0c0006b143e32f3ba4369f3112d3d85d);
+            
+        
+
+        circle_marker_45a1f87e03bd697666e0305ecff2b38a.bindPopup(popup_6a9382b9c6d53ad8f72d2d352aecee65)
+        ;
+
+        
+    
+    
+            var circle_marker_b39a13354281a149050f5e84c425b794 = L.circleMarker(
+                [51.10064716964619, -85.18296563936781],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_4c6dc99e91158fdf7244267943c948df = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_123a11d67b4f9b7f7b048f79dc6792a3 = $(`<div id="html_123a11d67b4f9b7f7b048f79dc6792a3" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Ontario<br>             <b>Income:</b> $38,692<br>             <b>CLV:</b> $4,092             </div>`)[0];
+                popup_4c6dc99e91158fdf7244267943c948df.setContent(html_123a11d67b4f9b7f7b048f79dc6792a3);
+            
+        
+
+        circle_marker_b39a13354281a149050f5e84c425b794.bindPopup(popup_4c6dc99e91158fdf7244267943c948df)
+        ;
+
+        
+    
+    
+            var circle_marker_83a8ab85c4f6a5b5eeaea2de5073e7a5 = L.circleMarker(
+                [52.92458237742445, -73.73246007752707],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_4aaf01965dc99a081af4762931bec7a8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_28d049270973a3a625b6fdfec9b08d1d = $(`<div id="html_28d049270973a3a625b6fdfec9b08d1d" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Quebec<br>             <b>Income:</b> $0<br>             <b>CLV:</b> $2,754             </div>`)[0];
+                popup_4aaf01965dc99a081af4762931bec7a8.setContent(html_28d049270973a3a625b6fdfec9b08d1d);
+            
+        
+
+        circle_marker_83a8ab85c4f6a5b5eeaea2de5073e7a5.bindPopup(popup_4aaf01965dc99a081af4762931bec7a8)
+        ;
+
+        
+    
+    
+            var circle_marker_edbcf864e0fa83852535be12cb707a0f = L.circleMarker(
+                [51.57926355725019, -84.98332507177727],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_e979c8ad5d63cf5f50f8d809865476ef = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1c6ea7195696e58a51c3b05bfde0b25c = $(`<div id="html_1c6ea7195696e58a51c3b05bfde0b25c" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Ontario<br>             <b>Income:</b> $58,778<br>             <b>CLV:</b> $44,795             </div>`)[0];
+                popup_e979c8ad5d63cf5f50f8d809865476ef.setContent(html_1c6ea7195696e58a51c3b05bfde0b25c);
+            
+        
+
+        circle_marker_edbcf864e0fa83852535be12cb707a0f.bindPopup(popup_e979c8ad5d63cf5f50f8d809865476ef)
+        ;
+
+        
+    
+    
+            var circle_marker_042f67561d41d77926ef482859b3b9d1 = L.circleMarker(
+                [52.57945602397271, -73.67469909456015],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_acdb56497d5808b8fa3195e57bdbde0b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_030ba05baf9dd4762b2ee4167e30ca46 = $(`<div id="html_030ba05baf9dd4762b2ee4167e30ca46" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Quebec<br>             <b>Income:</b> $58,958<br>             <b>CLV:</b> $83,325             </div>`)[0];
+                popup_acdb56497d5808b8fa3195e57bdbde0b.setContent(html_030ba05baf9dd4762b2ee4167e30ca46);
+            
+        
+
+        circle_marker_042f67561d41d77926ef482859b3b9d1.bindPopup(popup_acdb56497d5808b8fa3195e57bdbde0b)
+        ;
+
+        
+    
+    
+            var circle_marker_f24593e241a04990c120d7cefb16ed06 = L.circleMarker(
+                [54.01837222846042, -116.89839221290585],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_123528f1fc5d491e093c4c3d087854f1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d82a133aa673733f252e9b385fbdc068 = $(`<div id="html_d82a133aa673733f252e9b385fbdc068" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Alberta<br>             <b>Income:</b> $0<br>             <b>CLV:</b> $2,394             </div>`)[0];
+                popup_123528f1fc5d491e093c4c3d087854f1.setContent(html_d82a133aa673733f252e9b385fbdc068);
+            
+        
+
+        circle_marker_f24593e241a04990c120d7cefb16ed06.bindPopup(popup_123528f1fc5d491e093c4c3d087854f1)
+        ;
+
+        
+    
+    
+            var circle_marker_bfcadb6322b03b959f4e6fe084297e56 = L.circleMarker(
+                [53.97965467427489, -98.36409074463157],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_a72e1967518a41bad605d88e56c0f9a2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_86e41f93c1af4827e2a87c696c6094b4 = $(`<div id="html_86e41f93c1af4827e2a87c696c6094b4" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Manitoba<br>             <b>Income:</b> $58,958<br>             <b>CLV:</b> $83,325             </div>`)[0];
+                popup_a72e1967518a41bad605d88e56c0f9a2.setContent(html_86e41f93c1af4827e2a87c696c6094b4);
+            
+        
+
+        circle_marker_bfcadb6322b03b959f4e6fe084297e56.bindPopup(popup_a72e1967518a41bad605d88e56c0f9a2)
+        ;
+
+        
+    
+    
+            var circle_marker_1f77248c3bb035f204107a8951791f32 = L.circleMarker(
+                [53.714163678624004, -73.55265272018974],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_fb67669652fe581da632453f5f17db04 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9b5393f2e379d285c823c4ad5df3b6ce = $(`<div id="html_9b5393f2e379d285c823c4ad5df3b6ce" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Quebec<br>             <b>Income:</b> $21,988<br>             <b>CLV:</b> $41,075             </div>`)[0];
+                popup_fb67669652fe581da632453f5f17db04.setContent(html_9b5393f2e379d285c823c4ad5df3b6ce);
+            
+        
+
+        circle_marker_1f77248c3bb035f204107a8951791f32.bindPopup(popup_fb67669652fe581da632453f5f17db04)
+        ;
+
+        
+    
+    
+            var circle_marker_40dce628cc449f2df2244045eed4341f = L.circleMarker(
+                [44.88258999524332, -63.88145949690298],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_289025ab639c79750efd721fcb6deabf = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6c2e0588d36825d23b0edaabbdbf0203 = $(`<div id="html_6c2e0588d36825d23b0edaabbdbf0203" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Nova Scotia<br>             <b>Income:</b> $13,663<br>             <b>CLV:</b> $25,465             </div>`)[0];
+                popup_289025ab639c79750efd721fcb6deabf.setContent(html_6c2e0588d36825d23b0edaabbdbf0203);
+            
+        
+
+        circle_marker_40dce628cc449f2df2244045eed4341f.bindPopup(popup_289025ab639c79750efd721fcb6deabf)
+        ;
+
+        
+    
+    
+            var circle_marker_f0b51635cda298b9c3fe5c077ca4ab00 = L.circleMarker(
+                [54.48692864520868, -116.72079937970706],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_ccd392ce96ac92fb1802af277a00e7fb = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_feffdc73d750a3f3e7b34019edf8ba79 = $(`<div id="html_feffdc73d750a3f3e7b34019edf8ba79" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Alberta<br>             <b>Income:</b> $48,587<br>             <b>CLV:</b> $40,224             </div>`)[0];
+                popup_ccd392ce96ac92fb1802af277a00e7fb.setContent(html_feffdc73d750a3f3e7b34019edf8ba79);
+            
+        
+
+        circle_marker_f0b51635cda298b9c3fe5c077ca4ab00.bindPopup(popup_ccd392ce96ac92fb1802af277a00e7fb)
+        ;
+
+        
+    
+    
+            var circle_marker_e6caa450b373f0760bf63d4b0adf1eec = L.circleMarker(
+                [52.66367515147553, -73.87550289881187],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_e1e8b21824c2021814f17c4973d711a0 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b2b5fd9a356ece68f00741dc006c652a = $(`<div id="html_b2b5fd9a356ece68f00741dc006c652a" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Quebec<br>             <b>Income:</b> $0<br>             <b>CLV:</b> $10,059             </div>`)[0];
+                popup_e1e8b21824c2021814f17c4973d711a0.setContent(html_b2b5fd9a356ece68f00741dc006c652a);
+            
+        
+
+        circle_marker_e6caa450b373f0760bf63d4b0adf1eec.bindPopup(popup_e1e8b21824c2021814f17c4973d711a0)
+        ;
+
+        
+    
+    
+            var circle_marker_2c31a456eb92e00a2a6e9587d83da47d = L.circleMarker(
+                [50.86970002341157, -85.37053013741614],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_fd714c0f117ac9270e617caf962c027c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ae68019c390f55fc9c7b0d159374dc02 = $(`<div id="html_ae68019c390f55fc9c7b0d159374dc02" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Ontario<br>             <b>Income:</b> $0<br>             <b>CLV:</b> $74,229             </div>`)[0];
+                popup_fd714c0f117ac9270e617caf962c027c.setContent(html_ae68019c390f55fc9c7b0d159374dc02);
+            
+        
+
+        circle_marker_2c31a456eb92e00a2a6e9587d83da47d.bindPopup(popup_fd714c0f117ac9270e617caf962c027c)
+        ;
+
+        
+    
+    
+            var circle_marker_79a672b65e9c16d33fc700f25b72f076 = L.circleMarker(
+                [53.40420684422431, -98.99612952665717],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_b1c70b48d1260f9ad424950365b64104 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ebfe23f404aee066cf1c87bac7001be4 = $(`<div id="html_ebfe23f404aee066cf1c87bac7001be4" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Manitoba<br>             <b>Income:</b> $77,882<br>             <b>CLV:</b> $3,222             </div>`)[0];
+                popup_b1c70b48d1260f9ad424950365b64104.setContent(html_ebfe23f404aee066cf1c87bac7001be4);
+            
+        
+
+        circle_marker_79a672b65e9c16d33fc700f25b72f076.bindPopup(popup_b1c70b48d1260f9ad424950365b64104)
+        ;
+
+        
+    
+    
+            var circle_marker_bef89cf51d99f6e36097b2a36a72edd5 = L.circleMarker(
+                [51.55515629286003, -85.24182360339722],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_b58b1965e28b661743580ebde4d676c7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b3ccdba57f3a769fc93b09638b647546 = $(`<div id="html_b3ccdba57f3a769fc93b09638b647546" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Ontario<br>             <b>Income:</b> $0<br>             <b>CLV:</b> $4,595             </div>`)[0];
+                popup_b58b1965e28b661743580ebde4d676c7.setContent(html_b3ccdba57f3a769fc93b09638b647546);
+            
+        
+
+        circle_marker_bef89cf51d99f6e36097b2a36a72edd5.bindPopup(popup_b58b1965e28b661743580ebde4d676c7)
+        ;
+
+        
+    
+    
+            var circle_marker_185b1f4966b76500531f7f3faf3ec575 = L.circleMarker(
+                [53.269581527674426, -73.60756132731974],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_fc9dafb6d98e382a75e566ccd8644031 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_51c464cadd32712ce9540043803c867a = $(`<div id="html_51c464cadd32712ce9540043803c867a" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> Quebec<br>             <b>Income:</b> $50,825<br>             <b>CLV:</b> $8,093             </div>`)[0];
+                popup_fc9dafb6d98e382a75e566ccd8644031.setContent(html_51c464cadd32712ce9540043803c867a);
+            
+        
+
+        circle_marker_185b1f4966b76500531f7f3faf3ec575.bindPopup(popup_fc9dafb6d98e382a75e566ccd8644031)
+        ;
+
+        
+    
+    
+            var circle_marker_9104d84708505c571835412fa62e4d44 = L.circleMarker(
+                [53.55008490745737, -127.16031863111834],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_7a75c4235a0e19cdaa32e2183d291590);
+        
+    
+        var popup_c1832215ab174341dc3b637bd1e10e88 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a456fecf27f1650dfadfab588415c72c = $(`<div id="html_a456fecf27f1650dfadfab588415c72c" style="width: 100.0%; height: 100.0%;">             <b>Province:</b> British Columbia<br>             <b>Income:</b> $77,143<br>             <b>CLV:</b> $40,236             </div>`)[0];
+                popup_c1832215ab174341dc3b637bd1e10e88.setContent(html_a456fecf27f1650dfadfab588415c72c);
+            
+        
+
+        circle_marker_9104d84708505c571835412fa62e4d44.bindPopup(popup_c1832215ab174341dc3b637bd1e10e88)
+        ;
+
+        
+    
+    
+            marker_cluster_7a75c4235a0e19cdaa32e2183d291590.addTo(map_827b94d18cfb3fdfa9b38bbec8935520);
+        
+    
+            tile_layer_7423c4b172d8823e7e594fc7f8997aee.addTo(map_827b94d18cfb3fdfa9b38bbec8935520);
+        
+    
+            marker_cluster_7a75c4235a0e19cdaa32e2183d291590.addTo(map_827b94d18cfb3fdfa9b38bbec8935520);
+        
+</script>
+</html>
